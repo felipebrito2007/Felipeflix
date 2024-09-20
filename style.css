@@ -1,0 +1,129 @@
+element.style {
+    background: red;
+  }
+  body {
+  display: block;
+  margin: 8px;
+  
+  }
+
+  body {
+    color: white;
+    background: black;
+}
+
+element.style {
+  border: solid 1px;
+
+}
+
+body {
+  color: white;
+  background: black;
+}
+
+header {
+  border: solid 2px white;
+}
+
+
+/* código omitido */
+
+header {
+  border: solid 2px rgb(42, 122, 228);
+}
+
+
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+}
+
+/* código omitido */
+
+/* código omitido */
+
+header {
+  border-bottom: solid 2px rgb(42, 122, 228);
+  margin: 20px;
+}
+
+/* código omitido */
+
+header {
+  border-bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+}
+
+/* código omitido */
+
+header {
+  border-bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+  font-size: 32px;
+}
+
+
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+}
+
+header {
+  border-bottom: solid 2px rgb(42, 122, 228);
+  padding: 20px;
+  font-size: 32px;
+  color: rgb(42, 122, 228);
+}
+
+body {
+  color: white;
+  background: black;
+  margin: 0px;
+  font-family: "Chakra Petch", sans-serif;
+}
+element.style {
+  font-size: 40px;
+}
+
+h1 { 
+  font-size: 40px;
+}
+
+/* código omitido */
+
+.categoria-videos {
+  display: flex;
+}
+
+/* código omitido */
+
+/* código omitido */
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+/* código omitido */
+
+
+/* código omitido */
+
+.categoria-videos {
+  display: flex;
+  overflow-x: auto;
+  gap: 10px;
+}
+
+section {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* código omitido */
+
+
